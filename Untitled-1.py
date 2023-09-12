@@ -1,6 +1,6 @@
-m= int(input("drfghjk"))
-print(m)
-for i  in range (m):
+man= int(input("drfghjk"))
+print(man)
+for i  in range (man):
     if (i%2==0):
         print("hii") 
     else:
